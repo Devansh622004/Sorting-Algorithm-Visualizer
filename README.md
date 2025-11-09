@@ -164,7 +164,7 @@ W3Schools – Python Tutorial
 🌐 Repository
 
 🔗 GitHub Repository:
-https://github.com/Devansh622004/GUI-Sorting-Visualizer
+[https://github.com/Devansh622004/GUI-Sorting-Visualizer](https://github.com/Devansh622004/Sorting-Algorithm-Visualizer/tree/main)
 
 🖼️ Project Screenshot:
 <img width="969" height="710" alt="Screenshot 2025-11-09 120517" src="https://github.com/user-attachments/assets/84cada3a-4391-4457-ab55-eaf9b3c4546a" />
